@@ -645,7 +645,7 @@ section .title::after{
     .contact .right form .email{
         margin: 0;
     }
-    .right form .error-box{
+    .left form .error-box{
        width: 150px;
     }
     .scroll-up-btn{
